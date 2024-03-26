@@ -13,7 +13,7 @@ Model to segment brain tumors from 2D Magnetic Resonance brain Images by a convo
 ## Technologies Used
 
 - VS Code
-- Python
+- React
 - TensorFlow
 - Keras
 - Open CV
